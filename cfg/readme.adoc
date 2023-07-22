@@ -1,0 +1,55 @@
+= Readme
+
+== Advanced Mouse-Button weapon switcher
+
+https://github.com/Sveniveniven/tf2-scripts-cfg/tree/main
+
+== addons
+
+=== surfaceproperties.txt
+
+tf/custom/comfig-custom/surfaceproperties.txt
+
+=== mastercomfig
+
+disable pyroland, no tutorial, flat mouse, no footsteps, no soundscapes
+
+mastercomfig.vpk
+
+=== horsies-viewmodel-editor
+
+https://github.com/a-horsey/horsies-viewmodel-editor
+
+=== Ultimate-TF2-Visual-Fix-Pack
+
+https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack
+
+TF2UltimateVisualFix_000.vpk
+TF2UltimateVisualFix_dir.vpk
+
+TF2UltimateVisualFix_noModelFixes_000.vpk
+TF2UltimateVisualFix_noModelFixes_dir.vpk
+
+=== Altered Short Circuit Effects
+
+https://gamebanana.com/mods/11900
+
+Altered ShC FX.vpk
+
+=== cleantf2
+
+https://github.com/JarateKing/CleanTF2plus
+
+Flat textures
+No Playergibs
+No Shells
+No Weapongibs
+Surfaceproperties
+No Soundscapes
+mtp.cfg
+
+=== Transparent Flamethrower Fire
+
+https://gamebanana.com/mods/348622
+
+transparent flame.vpk
