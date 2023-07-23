@@ -42,5 +42,6 @@
         "COBOL",
         "ACUCOBOL"
     ],
-    "commentTranslate.hover.enabled": true
+    "commentTranslate.hover.enabled": true,
+    "commentTranslate.source": "Google"
 }
