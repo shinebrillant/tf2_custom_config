@@ -53,3 +53,9 @@ mtp.cfg
 https://gamebanana.com/mods/348622
 
 transparent flame.vpk
+
+=== CastingEssentials
+
+https://github.com/PazerOP/CastingEssentials[CastingEssentials]
+
+tf/custom/CastingEssentials
