@@ -59,3 +59,7 @@ transparent flame.vpk
 https://github.com/PazerOP/CastingEssentials[CastingEssentials]
 
 tf/custom/CastingEssentials
+
+=== Team Fortress 2 Texture Improvement Project
+
+https://tf2tip.maxofs2d.net/
